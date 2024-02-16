@@ -1,0 +1,21 @@
+body {
+background: #e7e6e1 /* Changed color to more closely match source image! */ url("../images/manet.jpeg") no-repeat left top;
+max-width: 60em;
+margin: 0 auto 0 auto;
+}
+
+h1 {
+font-family: 'Old English Five', cursive /* Couldn't get that specific font to work */
+}
+
+h2 {
+font-family: 'Old English Five', cursive /* Couldn't get that specific font to work */
+}
+                                                
+table, th, td {
+border-collapse: collapse;
+border: 2px solid #000;
+color: #000;
+background-color: #ccbcb8;
+padding: 1em;
+}
